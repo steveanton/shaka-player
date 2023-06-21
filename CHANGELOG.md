@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.12](https://github.com/shaka-project/shaka-player/compare/v4.2.11...v4.2.12) (2023-06-21)
+
+
+### Bug Fixes
+
+* **demo:** Fix deployment of v4.2.x on appspot ([d8b2378](https://github.com/shaka-project/shaka-player/commit/d8b2378ff565a6aec2de2689219001a1c2a16308))
+
 ## [4.2.11](https://github.com/shaka-project/shaka-player/compare/v4.2.10...v4.2.11) (2023-06-20)
 
 
